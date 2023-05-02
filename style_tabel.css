@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+button {
+    background-color: aqua;
+}
+legend {
+    background-color: azure;
+    font-style: italic;
+}
+input{
+    width: 150%;
+    padding: 7px;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    resize: vertical;
+}
+select{
+    width: 150%;
+    padding: 7px;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    resize: vertical;
+    background-color: gray;
+}   
+.cetak{
+    width: 100%;
+    border: 1px solid black;
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+

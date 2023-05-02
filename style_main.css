@@ -1,0 +1,28 @@
+body{
+     background-color:lightblue;
+}
+
+
+#kotak2{
+     width: auto;
+     height:250px;
+     padding:0px 45px 0px 17px;
+     background-color: blue;
+     color: white;
+}
+
+
+.kotak{
+     width: auto; 
+     height: 250px;
+     padding: 0px 45px 0px 18px; 
+     background-color: lightgray;
+      
+}
+
+h1{
+     color: darkblue;
+     font-family: monospace;
+     text-align: center;
+     font-size: 50px;
+}
